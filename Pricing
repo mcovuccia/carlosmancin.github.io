@@ -1,0 +1,16 @@
+<!doctype html>
+<head>
+</head>
+<body>
+</body>
+<h1>Pricing</h1>
+<table>
+  <tr><th>Basic Web Packages</th>
+  <th>Premium Package</th></tr>
+<tr>
+  <td>This is the basic package;
+contains 1 website of no more than 3 pages </td>
+  <td>This package contains 1 website incluide hosting.</td>
+</tr>
+</table>
+</body>
